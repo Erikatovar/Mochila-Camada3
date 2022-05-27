@@ -1,0 +1,11 @@
+git init
+git remote add
+git clone 
+git checkout -b
+git push
+git pull
+git commit -m
+git add .
+git status
+git log
+git branch
