@@ -1,0 +1,13 @@
+//---------¿Quién inventó el sistema de control de versión Git y por qué?---------//
+    Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, lo creo 
+    para posibilitar la ramificación y el etiquetado como procesos de primera importancia
+    (a diferencia de SVN) y las operaciones que afectan a las ramas y las etiquetas (como la fusión o la reversión) 
+    también se almacenan en el historial de cambios
+
+
+//--------------------¿A quién pertenece actualmente Github y por qué?--------------------//
+    Microsoft compró GitHub por la cantidad de 7500 millones de dólares.
+
+
+//------------------¿Hay otra forma que no sea la terminal para trabajar con Github?------------------//
+    si, trabajar mismo desde la interfaz grafica de github
