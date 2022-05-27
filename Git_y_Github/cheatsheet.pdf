@@ -1,0 +1,32 @@
+Comandos para Git:
+
+-Iniciar un repositorio 
+git init
+-Clonar repositorio
+git clone ruta remota de github
+-Configurar usuario git
+git config user.name "nombre usuario"
+-Configurar email git
+git config user.email email
+-Configurar usuario git manera global
+git config --global user.name nombre usuario
+-Configurar email git manera global
+git config --global user.email email
+-Ver estado repositorio
+git status
+-Añadir todos los archivos para seguimiento
+git add .
+-Añadir archivo concreto para seguimiento
+git add nombreArchivo
+-Hacer commit
+git commit -m "mensaje de commit"
+-Subir trabajo a repositorio remoto
+git push origin nombreRama
+-Bajar modificaciones a repositorio local
+git pull origin nombreRama
+-Crear e ir a rama
+git checkout -b nombreRama
+-Ver ramas
+git branch
+-Cambiar rama
+git chekcout nombreRama
