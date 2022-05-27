@@ -1,0 +1,4 @@
+Su creador fue Linus Torvalds 
+Git es un software de control de versiones diseñado por Linus Torvalds.
+Se pensó originalmente como un motor de bajo nivel sobre el cual otros pudieran escribir la interfaz de usuario o front end como Cogito o StGIT
+
