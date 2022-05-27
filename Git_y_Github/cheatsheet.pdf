@@ -30,3 +30,5 @@ git checkout -b nombreRama
 git branch
 -Cambiar rama
 git chekcout nombreRama
+-Ver lista commits
+git log
