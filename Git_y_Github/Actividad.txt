@@ -1,0 +1,5 @@
+a-Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005. Git se ha diseñado con la principal prioridad de conservar la integridad del código fuente gestionado.
+
+b-GitHub, Inc. Npm, Inc. GitHub Inc. El 4 de junio de 2018, Microsoft compró GitHub por la cantidad de 7500 millones de dólares, debido a su interés por el Open Source.
+
+c-Se puede trabajar con Github a través del mismo Github, con su interfaz gráfica, pero de una forma muy limitada.
