@@ -1,0 +1,3 @@
+1) Git lo inventó Linus Torvalds el famoso creador del kernel del sistema operativo Linux, quiso crear un software que permitiese la subida de archivos a la nube y que esos archivos pudiesen ser modificados por varios usuarios
+2) Microsoft compró GitHub por la cantidad de 7500 millones de dólares.
+3) Se puede trabajar con la interfaz gráfica del propio Github
