@@ -1,0 +1,12 @@
+a. ¿Quién inventó el sistema de control de versión Git y por qué?
+
+Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005. Los repositorios son, como su propio nombre indica, lugares virtuales alojados en la nube en donde los usuarios pueden almacenar cualquier tipo de archivo. Suelen usarse para guardar archivos de texto que representan código en distintos lenguajes de programación, los cuales a su vez conforman un programa o aplicación. Este es el servicio principal que ofrece GitHub: repositorios en donde los usuarios pueden almacenar el código de sus aplicaciones, ya sea de forma pública, privada o a través de una organización.
+
+b. ¿A quién pertenece actualmente Github y por qué?
+
+Microsoft compró GitHub por la cantidad de 7500 millones de dólares.
+
+
+c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+
+En la interface gráfica de GitHub.
