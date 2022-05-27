@@ -1,0 +1,3 @@
+a) Linus Torvalds, git se ha ideado para posibilitar la ramificación y el etiquetado como procesos de primera importancia (a diferencia de SVN) y las operaciones que afectan a las ramas y las etiquetas (como la fusión o la reversión) también se almacenan en el historial de cambios.
+b) A Microsoft, porque es acercamiento a la comunidad más vibrante en el desarrollo de software libre y abierto.
+c) Existe tambien la interfaz de github llamada Github Desktop. Se creo como una forma de falicitar el manejode git para gente que no domina la terminal.
