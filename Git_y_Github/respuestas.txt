@@ -4,7 +4,7 @@ Git es un proyecto de código abierto maduro y con un mantenimiento activo que d
 
 ¿A quién pertenece actualmente Github y por qué?
 
-Pertenece a Microsoft.
+Pertenece a Microsoft. Lo compro por $7.5 mil millones.
 
 ¿Hay otra forma que no sea la terminal para trabajar con Github?
 
