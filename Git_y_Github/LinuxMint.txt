@@ -1,0 +1,34 @@
+Descripción del SO 
+
+Linux Mint es una de las distribuciones de Linux basadas en Ubuntu más populares y fáciles de usar disponibles. 
+Linux Mint en línea proporcionado por OnWorks es igualmente perfecto tanto para principiantes como para usuarios a
+vanzados. El lema principal de Linux Mint es "De la libertad vino la elegancia", que proporciona una experiencia estable,
+potente, fácil de usar y completamente lista para usar.
+
+
+¿Es open source o con licencia ?
+Linux Mint es un SO open source
+
+
+¿Cuales son los recursos de Hard que tiene la MV? Si no se pueden ver, buscar requisitos mínimos en internet
+Requisitos para instalar Linux Mint 18.2 Sonya
+
+512MB RAM (1GB recomendado).
+9GB de espacio libre en disco (20GB recomendado).
+Tarjeta gráfica 800×600 de resolución mínima (1024×768 recomendada).
+DVD drive o puerto USB
+
+¿Cómo se accede a la ventana de comandos?
+Se puede acceder de manera manual, buscando la terminal en su sitio correspondiente.
+De forma predeterminada, en Ubuntu y Linux Mint, la tecla de acceso 
+directo del terminal está asignada a Ctrl + Alt + T. 
+
+¿Puedo instalar aplicaciones?¿Por que?
+Si, linux mint presenta varias maneras para instalar aplicaciones, una de ellas es el gestor de software
+que el sistema operativo nos brinda por defecto. 
+
+¿Hay juegos instalados?
+Si bien el SO tiene varias aplicaciones instaladas por defecto, no cuenta con juegos, pero estos pueden ser 
+instalados desde el  gestor de software.
+
+Capturar una imagen del file explorer (ejemplo)
