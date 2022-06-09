@@ -1,0 +1,15 @@
+Crear un repositorio Local  | git init
+Identificarte                        git config user.name
+                                     git config user.email
+Ver estado de los archivos  | git status                                            
+Listar directorio                   | git ls
+Agregar un archivo | git add
+Agregar un commit | git commit -m
+Volver a un commit anterior  | git checkout <commit>
+Ver lista de commits | git log
+Cambiar branch | git checkout <nombre de la branch>
+Listar las branches creadas| git branch
+Crear y cambiar de branch | git checkout -b | git switch -c
+Clonar repositorio remoto    | git clone <url>
+Actualizar repositorio local con el remoto |  git pull 
+Actualizar repositorio remoto con el local   | git push -u origin main
