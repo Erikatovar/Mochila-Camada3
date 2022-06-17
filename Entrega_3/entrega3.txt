@@ -1,0 +1,19 @@
+-Pregunta 1
+
+	Porque un lenguaje de programacion compila el lenguaje ensemblador 
+	el cual es ejecutado por el sistema operativo.
+
+-Pregunta 2
+
+	VirtualBox es una aplicacion que sirve para hacer maquinas virtuales con istalaciones de
+	sistemas operativos.
+
+-Pregunta 3
+
+	Un hypervisor tambien conocido como monitor de maquinas virtuales,
+	es un proceso que crea y ejecuta maquinas virtuales.
+
+-Pregunta 4
+
+	Si una maquina virtual se rompe no afecta a las demas ya que son independiantes
+	una de la otra.
