@@ -13,11 +13,3 @@ Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a
 No porque una máquina virtual es un software que crea una capa independiente donde se emula el funcionamiento de un ordenador real con todos los componentes de hardware que necesita para funcionar (disco duro, memoria RAM, tarjetas de red, tarjeta gráfica, etc.). Desde ahí, se puede ejecutar cualquier sistema operativo o programa, tal y como lo haría un ordenador real. Toda esta emulación se encapsula en una serie de archivos que actúan como contendor desde el que se ejecuta la máquina virtual en una ventana de tu ordenador como si de un programa más se tratara y sin que nada de lo que suceda en el interior de esa ventana afecte al ordenador que la ejecuta.
 
 
-Estructura: https://token@RestoLinkRepoCamada
-Token Pablo:
-Token Rocky: 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
-Token Cecilia: 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
-Token Rodrigo:
-Token Lucas: 
-Token Florencia: https://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
-@github.com/Erikatovar/Mochila-Camada3.git
