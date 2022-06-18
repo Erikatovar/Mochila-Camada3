@@ -1,0 +1,12 @@
+
+1 ) ¿ Por que un lenguaje de programacion solo puede utilizarse en algunos sistemas operativos y en otros no?
+
+
+2) ¿Que tipo de maquina virtual soporta virtualBox?. 
+	Además de crear sus propias máquinas, VirtualBox también es capaz de abrir máquinas virtuales de su rival VMware, lo que es muy útil cuando nos descargamos alguna de estas máquinas directamente configuradas y no tenemos VMware instalado en nuestro equipo.
+
+3) ¿ Que funcion cumple el hipervisor en la virtualizacion?
+	Un hipervisor, conocido también como monitor de máquinas virtuales, es un proceso que crea y ejecuta máquinas virtuales. Un hipervisor permite que un ordenador host preste soporte a varias máquinas virtuales invitadas mediante el uso compartido virtual de sus recursos, como la memoria y el procesamiento.
+
+4) Si tengo mas de una maquina virtual instalada, y una se rompe, ¿esto afecta a las demas?¿por que?
+	
