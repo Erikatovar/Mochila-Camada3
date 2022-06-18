@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="51" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.9.1" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:es-ES; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Fri Jun 17 23:12:36 2022
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.creator">usuario-intro</m>
+<m key="dc.date">Fri Jun 17 23:12:36 2022
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="2" edit-time="1818" last-saved="1655518356" uid="e3551302-eea7-11ec-9ba9-a3be3cee80f9">
+<version id="2" started="1655517241" uid="1ede8616-eeac-11ec-9ba9-a3be3cee80f9" auto="0" top-xid="20"/>
+</history>
+<styles>
+<s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; text-position:normal; widows:2; font-style:normal; text-indent:0in; font-variant:normal; font-weight:normal; margin-right:0pt; font-size:12pt; text-decoration:none; margin-bottom:0pt; line-height:1.0; bgcolor:transparent; text-align:left; font-stretch:normal"/>
+</styles>
+<pagesize pagetype="A4" orientation="portrait" width="8.267717" height="11.692913" units="in" page-scale="1.000000"/>
+<section xid="7" props="page-margin-footer:0.5000in; page-margin-header:0.5000in; page-margin-right:1.0000in; page-margin-left:1.0000in; page-margin-top:1.0000in; page-margin-bottom:1.0000in">
+<p style="Normal" xid="8"><c>Preguntas de la mesa de trabajo 5:</c></p>
+<p style="Normal" xid="34"><c></c></p>
+<p style="Normal" xid="35"><c></c><c> 1- ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?</c></p>
+<p style="Normal" xid="36"><c></c></p>
+<p style="Normal" xid="37"><c>De acuerdo de a qué sistemas operativos los desarrolladores del compilador decidieron soportar durante la creación del mismo, va a determinar si va a poder compilarse una aplicación en cada sistema operativo.</c></p>
+<p style="Normal" xid="38"><c></c></p>
+<p style="Normal" xid="39"><c>2- ¿Que tipo de máquina virtual soporta virtualBox?</c></p>
+<p style="Normal" xid="40"><c></c></p>
+<p style="Normal" xid="41"><c>VirtualBox soporta máquinas virtuales de sistemas.</c></p>
+<p style="Normal" xid="42"><c></c></p>
+<p style="Normal" xid="43"><c>3- ¿Qué función cumple el hypervisor en la virtualización?</c></p>
+<p style="Normal" xid="44"><c></c></p>
+<p style="Normal" xid="45"><c>Es una capa de sofftware para realizar virtualización de hardware. Es decir, es un administrador de máquinas virtuales.</c></p>
+<p style="Normal" xid="46"><c></c></p>
+<p style="Normal" xid="47"><c>4- Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás?¿por qué?</c></p>
+<p style="Normal" xid="48"><c></c></p>
+<p style="Normal" xid="49"><c>No afectaría a las demás máquinas virtuales debido a que se encuentran aisladas.</c></p>
+<p style="Normal" xid="50"><c></c></p>
+<p style="Normal" xid="51" props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal"><c>5- Subir este archivo a la mochila del viajero desde la máquina virtual.</c></p>
+</section>
+</abiword>
