@@ -1,14 +1,14 @@
 Con toda la mesa de trabajo debatan sobre las siguientes preguntas y contesten en conjunto: 
 
-¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no? 
-R: Dependiendo de a qué sistemas operativos los desarrolladores del compilador decidieron soportar durante la creación del mismo, va a determinar si va a poder compilarse una aplicación en cada sistema operativo.
+ï¿½Por quï¿½ un lenguaje de programaciï¿½n sï¿½lo puede utilizarse en algunos sistemas operativos y en otros no? 
+R: Dependiendo de a quï¿½ sistemas operativos los desarrolladores del compilador decidieron soportar durante la creaciï¿½n del mismo, va a determinar si va a poder compilarse una aplicaciï¿½n en cada sistema operativo.
 
-¿Qué tipo de máquina virtual soporta virtualBox?. 
-VirtualBox soporta máquinas virtuales de sistema.
-R: VirtualBox soporta máquinas virtuales de sistemas.
+ï¿½Quï¿½ tipo de mï¿½quina virtual soporta virtualBox?. 
+VirtualBox soporta mï¿½quinas virtuales de sistema.
+R: VirtualBox soporta mï¿½quinas virtuales de sistemas.
 
-¿Qué función cumple el hypervisor en la virtualización?
-R: Es una capa de software para realizar virtualización de hardware. Es decir, es un administrador de máquinas virtuales.
+ï¿½Quï¿½ funciï¿½n cumple el hypervisor en la virtualizaciï¿½n?
+R: Es una capa de software para realizar virtualizaciï¿½n de hardware. Es decir, es un administrador de mï¿½quinas virtuales.
 
-Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
-R: No afectaría a las demás máquinas virtuales debido a que se encuentran aisladas.
+Si tengo mï¿½s de una mï¿½quina virtual instalada, y una se rompe, ï¿½esto afecta a las demï¿½s? ï¿½por quï¿½?
+R: No afectarï¿½a a las demï¿½s mï¿½quinas virtuales debido a que se encuentran aisladas.
