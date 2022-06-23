@@ -1,6 +1,12 @@
 
 1 ) ¿ Por que un lenguaje de programacion solo puede utilizarse en algunos sistemas operativos y en otros no?
-
+	Porque un lenguaje de programacion compila a lenguaje ensamblador el cual es ejecutado
+	por el sistema operativo, este lenguaje ensamblador depende de dos cosas, de la arquitectura
+	del procesador y la interpretacion que le del el sistema operativo. Si en la computadora cambia la 
+	arquitectura del procesador, el lenguaje ensamblador es totalmente diferente, y no va a correr.
+	
+	Ahora si es la misma arquitectura de procesador y diferente sistema operativo, en ocasiones el sitema operativo
+	cambia la definicion de la interrupcion o el llamado de esta
 
 2) ¿Que tipo de maquina virtual soporta virtualBox?. 
 	Además de crear sus propias máquinas, VirtualBox también es capaz de abrir máquinas virtuales de su rival VMware, lo que es muy útil cuando nos descargamos alguna de estas máquinas directamente configuradas y no tenemos VMware instalado en nuestro equipo.
@@ -9,4 +15,6 @@
 	Un hipervisor, conocido también como monitor de máquinas virtuales, es un proceso que crea y ejecuta máquinas virtuales. Un hipervisor permite que un ordenador host preste soporte a varias máquinas virtuales invitadas mediante el uso compartido virtual de sus recursos, como la memoria y el procesamiento.
 
 4) Si tengo mas de una maquina virtual instalada, y una se rompe, ¿esto afecta a las demas?¿por que?
-	
+	Esto no afecta, ya que estan separadas. Cada sistema operativo es independiente de los otros que se instalen.
+	Las maquinas virtuales tienen la ventaja de que permanecen completamente independientes entre si y respecta al equipo host
+	fisico.
