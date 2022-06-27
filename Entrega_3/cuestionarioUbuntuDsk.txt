@@ -1,0 +1,4 @@
+1)Porque un lenguaje de programacion compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo, este lenguaje depende de la arquitectura del procesador y la interpretacion que le de el sistema operativo.Es por eso que si cambia la arquitectura , no va a correr.
+2)Es un hipervisor de tipo 2 ya que se ejecuta dentro de otro sistema operativo, en este caso windows.
+3)El hipervisor proporciona a cada maquina virtual los recursos que se le habian asignado y gestiona la programacion del ellos en funcions de los recursos fisicos.
+4)No, ya que cada maquina virtual tiene su propio comportamiento, por lo tanto las maquinas no se afectan entre si .
